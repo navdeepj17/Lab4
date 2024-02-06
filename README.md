@@ -1,8 +1,8 @@
 # Project Overview
 
-- Project is an e-commerce website 
-- Its made using web development technologies like html
-- It has an many sections including about, products, contact, etc.
+- This project involved learning the css technique called "Flexbox".
+- It makes our web pages responsive.
+- It is very easy to use and understand.
 
 ## Team Members
 
